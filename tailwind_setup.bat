@@ -35,4 +35,4 @@ echo } >> tailwind.config.js
 
 
 
-pause
+exit
