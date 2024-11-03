@@ -5,3 +5,6 @@
 - Script đã đổi sẵn thành `"dev" : "vite"` trong `package,json` nên sau này chỉ cần `npm run dev`
 
 ### Còn lại bạn tự đọc trong file .bat nhé
+![image](https://github.com/user-attachments/assets/d8a21d17-340b-4aed-83bd-6fb393f86074)
+![image](https://github.com/user-attachments/assets/f648629a-a70e-4a7f-a0c0-59503b9c5762)
+
